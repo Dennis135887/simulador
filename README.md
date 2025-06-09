@@ -1,5 +1,5 @@
 # simulador
-Simulador de Autômatos com Grafos
+#Simulador de Autômatos com Grafos
 
 import graphviz
 
